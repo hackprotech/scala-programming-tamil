@@ -7,4 +7,5 @@
 - Scala Datatypes overview
 - Scala Datatypes with examples
 - Scala 3 vs Scala 2 (main() vs extends App)
+- Var vs Val?
 - stay tuned......
